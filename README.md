@@ -43,10 +43,10 @@ The app is designed with a modern, responsive UI, ensuring a smooth user experie
 
 ## Technology Stack  
 
-- React.js : Frontend UI framework |
-- Socket.io : Real-time WebSocket communication |
-- Vite : Fast build tool for React |
-- Node.js & Express : Backend server to handle WebSockets |
+- React.js : Frontend UI framework 
+- Socket.io : Real-time WebSocket communication 
+- Vite : Fast build tool for React 
+- Node.js & Express : Backend server to handle WebSockets 
 
 ## How It Works  
 
@@ -64,4 +64,4 @@ The app is designed with a modern, responsive UI, ensuring a smooth user experie
 
 # OUTPUT
 
-![Image](https://github.com/user-attachments/assets/b4f20d5f-54f4-4007-bb18-5af4bacc8a73)
+![Image](https://github.com/user-attachments/assets/86bf3ee3-a4d3-4b67-9870-4e3aedc54355)
